@@ -4,7 +4,7 @@
 
 Hi there! I'm Gauthami Karkera, a UI/UX Designer driven by a passion for crafting intuitive, engaging, and impactful digital experiences. This repository showcases my design portfolio and provides a deeper look into my creative process.
 
-[UI/UX Designer Illustration](./ux.jpeg)
+![UI/UX Designer Illustration](./ux.jpeg)
 
 ---
 
